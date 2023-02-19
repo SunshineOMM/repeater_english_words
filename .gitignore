@@ -19,6 +19,9 @@ lib64/
 parts/
 sdist/
 var/
+postgres_data/
+ml/models/
+code_dumps/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# sequre
+config.py
